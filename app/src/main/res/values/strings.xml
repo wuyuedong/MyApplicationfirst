@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AR</string>
+    <string name="str_isloading">加载中</string>
+
+    <string name="my_order">我的订单</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="my_settings">设置</string>
+    <string name="my_about">关于我们</string>
+    <string name="no_login">未登录</string>
+    <string name="version">版本信息: </string>
+    <string name="xieyi">用户协议</string>
+    <string name="shengming">隐私声明</string>
+    <string name="good_pinglun">亲，给个好评吧！</string>
+    <string name="copyright">Copyright©2017</string>
+    <string name="company">微巍信息技术有限公司版权所有</string>
+    <string name="person_message">个人信息</string>
+    <string name="person_passwod">登录密码</string>
+    <string name="person_update">修改</string>
+    <string name="person_clear_cache">清除缓存</string>
+    <string name="person_fankui">意见反馈</string>
+    <string name="person_xianshi_photo">仅WIFI下显示图片</string>
+    <string name="person_save">保存</string>
+    <string name="person_head">头像</string>
+    <string name="person_name">请输入用户名</string>
+    <string name="person_name2">用户名</string>
+    <string name="person_phone">手机号</string>
+    <string name="person_fankui_content">请输入您的宝贵意见(500字以内)...</string>
+    <string name="person_thanks">感谢您提出宝贵的意见，我们将虚心接受您的批评与意见，努力为您改正！</string>
+
+    <string name="shouye">首页</string>
+    <string name="order">订单</string>
+    <string name="classification">分类</string>
+    <string name="classification_all">全部分类</string>
+    <string name="me">我的</string>
+    <string name="phone">输入手机号</string>
+    <string name="password">输入密码</string>
+    <string name="forget">忘记密码?</string>
+    <string name="forget2">忘记密码</string>
+    <string name="login">登录</string>
+    <string name="exit_login">退出登录</string>
+    <string name="redgist">注册</string>
+    <string name="str_pwd_smscode">获取验证码</string>
+    <string name="queren_xieyi">我已看过并同意</string>
+    <string name="yonghu_xieyi"><b>用户协议</b></string>
+    <string name="yonghu_xieyi1">已有账户?</string>
+    <string name="yonghu_xieyi2"><b>去登陆</b></string>
+    <string name="redgist_yanzhengma">输入验证码</string>
+    <string name="redgist_ma">输入6-16位密码</string>
+    <string name="redgist_ma_new">确认新密码</string>
+    <string name="submit">提交</string>
+
+    <string name="ensure_phone">请输入正确的手机号码</string>
+    <string name="ensure_yanzhengma">请输入验证码</string>
+    <string name="ensure_password">请输入密码</string>
+    <string name="ensure_register">注册成功</string>
+    <string name="ensure_error">输入有误</string>
+    <string name="ensure_update_password">修改成功</string>
+    <string name="ensure_not_password_new">两次密码输入不一样</string>
+
+    <string name="cancle">取消</string>
+    <string name="search">请输入搜索商品</string>
+    <string name="hot_danpim">热门单品</string>
+    <string name="today_good">今日精选</string>
+    <string name="youzhi_tuijian">优质推荐</string>
+    <string name="now_buy">立即购买</string>
+    <string name="d3_look">3D预览</string>
+
+
+
+
+
+
+
+
+
+</resources>
