@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.myapplication.IsTopBottomScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.example.myapplication.MyListview
+                android:id="@+id/mylistview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+            </com.example.myapplication.MyListview>
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+</com.example.myapplication.IsTopBottomScrollView>
