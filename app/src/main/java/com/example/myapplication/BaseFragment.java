@@ -25,7 +25,7 @@ public abstract class BaseFragment extends Fragment {
     private Runnable loadDataTask = new Runnable() {
         @Override
         public void run() {
-            loadData();
+            loadData();  
         }
     };
     private Unbinder unbinder;
