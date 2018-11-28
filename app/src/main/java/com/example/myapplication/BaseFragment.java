@@ -21,11 +21,11 @@ import butterknife.Unbinder;
 public abstract class BaseFragment extends Fragment {
     public App appContext;
     protected Activity context;
-    private Handler handler = new Handler();
+    private Handler handler = new Handler();   
     private Runnable loadDataTask = new Runnable() {
         @Override
         public void run() {
-            loadData();  
+            loadData();
         }
     };
     private Unbinder unbinder;
