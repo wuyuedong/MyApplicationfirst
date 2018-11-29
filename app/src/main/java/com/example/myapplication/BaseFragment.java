@@ -58,8 +58,6 @@ public abstract class BaseFragment extends Fragment {
         super.setUserVisibleHint(isVisibleToUser);
         if (!isVisibleToUser) {
             handler.removeCallbacks(loadDataTask);
-
-            
         }
     }
 
